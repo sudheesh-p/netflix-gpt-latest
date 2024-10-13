@@ -11,6 +11,8 @@
   - firebase setup
   - Deploying to production
   - Sign up user account
+  - Implemented login
+  - Created redux store with use slice
 
 
 
